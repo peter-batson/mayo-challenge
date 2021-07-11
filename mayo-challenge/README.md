@@ -1,5 +1,5 @@
 #Run Site
 
-`npx gatsby deploy`
+`npx gatsby develop`
 
 got to localhost:8000
